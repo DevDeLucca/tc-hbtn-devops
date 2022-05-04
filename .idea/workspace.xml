@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="675fa9dd-f676-4fd2-be08-37405d5ddb41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../f3867f5de1858d3afa0db399d4f5790e2d26dae3/CRUD-Java-master/sonar-project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tc-hbtn-SOLID/0x03/nomenclatura/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tc-hbtn-SOLID/0x04/cleanCode/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tc-hbtn-SOLID/0x04/convencao/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tc-hbtn-SOLID/0x04/error/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tc-hbtn-SOLID/0x04/log/LoggerInFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01/introducao" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tc-hbtn-SOLID/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/lsp/BankCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/lsp/BankRewards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/lsp/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/lsp/DebitCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/lsp/IPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/lsp/MainPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/ocp/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/ocp/IVehicleCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/ocp/IVehicleMotorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/ocp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/ocp/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/ocp/TypeVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/ocp/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/srp/CustomerEvaluation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/srp/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/0x01/srp/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tc-hbtn-SOLID/tc-hbtn-SOLID-main/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28iAzheR8iEjdA5FrIL6oQ74HLz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675fa9dd-f676-4fd2-be08-37405d5ddb41" name="Changes" comment="" />
+      <created>1651689297144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651689297144</updated>
+    </task>
+    <servers />
+  </component>
+</project>
