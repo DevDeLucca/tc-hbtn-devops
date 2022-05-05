@@ -1,0 +1,3 @@
+[submodule "0x02/website-hugo-demo/website-hugo-demo/themes/gohugo-theme-ananke"]
+	path = 0x02/website-hugo-demo/website-hugo-demo/themes/gohugo-theme-ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
